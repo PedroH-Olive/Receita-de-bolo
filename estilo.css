@@ -1,0 +1,21 @@
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: brown;
+}
+h3{
+    text-decoration: underline;
+    color: brown;
+}
+li,ol,ul{
+    line-height: 28px;
+}
+img{
+    width: 100%;
+    font-weight: bold;
+}
